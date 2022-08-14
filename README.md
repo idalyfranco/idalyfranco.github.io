@@ -4,11 +4,11 @@ Welcome to my personal site where I post my personal sewing projects !
 
 Find me on my [instagram page](https://www.instagram.com/sewist_mariniere/) to preview the content shared on this website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Favorite Fabrics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Choosing a fabric is one of the most important desicions when embarking in a new project 
 
 ```markdown
 Designer Fabrics
@@ -20,15 +20,14 @@ Designer Fabrics
 - Great Variety
 - Patterns available
 
-1. Numbered
-2. List
+1. Accessories
+2. Buttons
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Sewing Accessories 
 
