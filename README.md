@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Me
 
-Would you like to suscribe to my page or chat about sewing projects ? Send me an [email](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Would you like to suscribe to my page or chat about sewing projects ? Send me an [email](sewistmariniere@gmail.com) or [my instagram page](https://www.instagram.com/sewist_mariniere/) 
