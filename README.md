@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Mariniere Sewing Enthusiast
 
-Site is to publish my sewing projects
+Welcome to my personal site where I post my personal sewing projects !
 
-You can use the [editor on GitHub](https://github.com/idalyfranco/idalyfranco.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Find me on my [instagram page](https://www.instagram.com/sewist_mariniere/) to preview the content shared on this website.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
