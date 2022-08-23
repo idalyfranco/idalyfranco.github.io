@@ -8,7 +8,7 @@ Find me on my [instagram page](https://www.instagram.com/sewist_mariniere/) to p
 
 ### Favorite Fabrics
 
-Choosing a fabric is one of the most important desicions when embarking in a new project 
+Choosing a fabric is one of the most important decisions when embarking in a new project 
 
 ```markdown
 Designer Fabrics
