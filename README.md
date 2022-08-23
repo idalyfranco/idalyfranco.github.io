@@ -13,9 +13,11 @@ Choosing a fabric is one of the most important decisions when embarking in a new
 ```markdown
 Designer Fabrics
 
-# MoodFabrics
-## Blackbird
-### TBD
+# MoodFabrics. [Mood Fabrics](https://www.moodfabrics.com/).
+
+## Blackbird [Blackbird Fabrics](https://www.blackbirdfabrics.com/en-us/)
+
+### 
 
 - Great Variety
 - Patterns available
@@ -35,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact Me
 
-Would you like to suscribe to my page or chat about sewing projects ? Send me an [email](sewistmariniere@gmail.com) or [my instagram page](https://www.instagram.com/sewist_mariniere/) 
+Would you like to suscribe to my page or chat about sewing projects ? Send me an [email](sewistmariniere@gmail.com) or contact me on [my instagram page](https://www.instagram.com/sewist_mariniere/) 
