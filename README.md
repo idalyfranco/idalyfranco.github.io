@@ -1,5 +1,6 @@
-## Mariniere Sewing Enthusiast
+## Mariniere Sewist
 
+Handmade by Idaly Franco 
 Welcome to my personal site where I post my personal sewing projects !
 
 Find me on my [instagram page](https://www.instagram.com/sewist_mariniere/) to preview the content shared on this website.
